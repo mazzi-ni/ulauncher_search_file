@@ -1,1 +1,1 @@
-# ulauncher_search_file
+# Ulauncher search file
