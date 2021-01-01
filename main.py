@@ -77,7 +77,7 @@ class KeywordQueryEventListener(EventListener):
             ])
 
         #searching
-        results = extension.search(query, '/home/mazzi/', file_type)
+        results = extension.search(query, '/', file_type)
         print(results)
 
         if not results:
