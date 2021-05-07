@@ -2,7 +2,7 @@
 
 *ho copiato il titolo e alcune immagini da un'altra estensione che fa la stessa cosa praticamente*
 
-![](/home/mazzi/Documenti/project/python-project/ulauncher_search_files/readme/ulancher.png)
+![](./ulancher.png)
 
 ## Installazione:
 
